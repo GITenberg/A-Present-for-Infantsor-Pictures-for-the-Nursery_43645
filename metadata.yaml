@@ -1,0 +1,29 @@
+_repo: A-Present-for-Infantsor-Pictures-for-the-Nursery_43645
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43645-h/images/backcover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2013-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+title: A Present for Infants; or, Pictures for the Nursery
+url: http://www.gutenberg.org/ebooks/43645
